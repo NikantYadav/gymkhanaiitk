@@ -1,11 +1,10 @@
 {
 	"components" : [
-		"cover2",
+		"cover",
 		"about",
 		"council",
 		"cell",
 		"preamble",
 		"fest"
-		
 	]
 }
