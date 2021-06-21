@@ -32,6 +32,13 @@
       "title" : "Vox Populi",
       "officialwebsite" : "https://voxiitk.com/",
       "description" : "Vox is the student media body of IIT Kanpur. We aim to be the voice of campus community, and act as a bridge between faculty, students, alumni and other stakeholders of IIT Kanpur. "
+    },
+    {
+      "logo" : "ppoc.jpg",
+      "title" : "Public Policy and Opinion Cell",
+      "officialwebsite" : "",
+      "description" : "Public Policy and Opinion Cell at IIT Kanpur brings global events into valuable perspective. We aim to provide our members with first-class exposure to world leaders, policymakers, historians and the frontier of Economics for years. We are the only student-run public-policy cell among the 23 IITs nationwide. We aim to engage students in discussions on issues of social, economic, political and historical significance and expose them to the challenges of policy making, encouraging them to pursue careers in the field of public policy and governance."
+
     }
   ]
 }

@@ -1,4 +1,4 @@
-baseURL = "https://itsgyanendra.github.io/website"
+baseURL = "https://students.iitk.ac.in/gymkhana/website-build/"
 languageCode = "en-us"
 title = "Students' Gymkhana - IIT Kanpur"
 theme = "theme"

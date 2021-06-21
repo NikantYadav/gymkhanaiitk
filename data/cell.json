@@ -40,6 +40,12 @@
       "avatar" : "vox.webp",
       "officialwebsite" : "https://voxiitk.com/"
       
+    },
+    {
+      "name" : "Public Policy and Opinion Cell",
+      "description" : "",
+      "avatar" : "ppoc.jpg",
+      "officialwebsite" : ""
     }
   ]
 }
