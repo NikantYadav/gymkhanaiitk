@@ -1,39 +1,40 @@
 {
   "contact" : [
      {
-      "name" : "Soumarup Bhattacharyya",
-      "image" : "soumarup.webp",
+      "name" : "Anshika Chaudhary",
+      "image" : "Anshika_Chaudhary.jpeg",
       "position": "General Secretary",
       "council": "Games and Sports" ,
-      "phone": "+91 9005910555",
+      "phone": "+91-8700552179",
       "mail":"sportsecy@iitk.ac.in",
       "social": {
-        "facebook" : "https://www.facebook.com/profile.php?id=100020348673014"
+        "facebook" : "https://www.facebook.com/profile.php?id=100027397734170",
+        "linkedin" : "https://www.linkedin.com/in/anshi8236j24"
       }
     },
     {
-      "name" : "Vaibhav Chandra ",
-      "image" : "vaibhav.webp",
+      "name" : "Anshul Singh ",
+      "image" : "Anshul_Singh.jpeg",
       "position": "General Secretary ",
       "council": "Media and Cultural" ,
-      "phone": "+91-7355718217",
+      "phone": "+91-8009573548",
       "mail":"mncsecy@iitk.ac.in",
       "social": {
-        "facebook" : "https://www.facebook.com/vaiibhavvv",
+        "facebook" : "https://www.facebook.com/profile.php?id=100012111607864",
 
-        "linkedin" : "https://www.linkedin.com/in/vaibhav-chandra-19023a159/"
+        "linkedin" : "https://www.linkedin.com/in/anshul-singh-0a54351b1/"
       }
     },
     {
-      "name" : "Mudit Agrawal",
-      "image" : "mudit.webp",
+      "name" : "Utkarsh Gupta",
+      "image" : "Utkarsh_Gupta.jpg",
       "position": "General Secretary",
       "council": "Science and Technology " ,
-      "phone": "+91-9340052571",
+      "phone": "+91-6387517713",
       "mail":"sntsecy@iitk.ac.in",
       "social": {
-        "facebook" : "https://www.facebook.com/mudit.agrawal.1426",
-        "linkedin" : "https://www.linkedin.com/in/mudit-agrawal-660a4a166/"
+        "facebook" : "https://www.facebook.com/utkarshg99",
+        "linkedin" : "https://www.linkedin.com/in/utkarshg99"
       }
     }
    
