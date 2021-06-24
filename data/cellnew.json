@@ -28,17 +28,18 @@
       "description" : "Outreach Cell is the Students' Gymkhana body that works in collaboration with the Dean of Resources and Alumni, IIT Kanpur. We contribute to the crucial avenues of strengthening student-alumni relations, publicizing achievements of IIT Kanpur and organizing outreach programs in IIT Kanpur. We organize talks and networking programs for career guidance and mentorship for developing student-alumni relations. We also conceptualize and execute various campaigns such as #ThatsIITK, #AskIITK for prospective students."
     },
     {
-      "logo" : "vox.webp",
-      "title" : "Vox Populi",
-      "officialwebsite" : "https://voxiitk.com/",
-      "description" : "Vox is the student media body of IIT Kanpur. We aim to be the voice of campus community, and act as a bridge between faculty, students, alumni and other stakeholders of IIT Kanpur. "
-    },
-    {
       "logo" : "ppoc.jpg",
       "title" : "Public Policy and Opinion Cell",
       "officialwebsite" : "",
       "description" : "Public Policy and Opinion Cell at IIT Kanpur brings global events into valuable perspective. We aim to provide our members with first-class exposure to world leaders, policymakers, historians and the frontier of Economics for years. We are the only student-run public-policy cell among the 23 IITs nationwide. We aim to engage students in discussions on issues of social, economic, political and historical significance and expose them to the challenges of policy making, encouraging them to pursue careers in the field of public policy and governance."
 
+    },
+    {
+      "logo" : "vox.webp",
+      "title" : "Vox Populi",
+      "officialwebsite" : "https://voxiitk.com/",
+      "description" : "Vox is the student media body of IIT Kanpur. We aim to be the voice of campus community, and act as a bridge between faculty, students, alumni and other stakeholders of IIT Kanpur. "
     }
+   
   ]
 }

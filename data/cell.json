@@ -33,19 +33,19 @@
       "officialwebsite" : "https://students.iitk.ac.in/outreach-cell/"
       
     },
-    
+    {
+      "name" : "Public Policy and Opinion Cell",
+      "description" : "",
+      "avatar" : "ppoc.jpg",
+      "officialwebsite" : ""
+    },
     {
       "name" : "Vox Populi",
       "description" : "",
       "avatar" : "vox.webp",
       "officialwebsite" : "https://voxiitk.com/"
       
-    },
-    {
-      "name" : "Public Policy and Opinion Cell",
-      "description" : "",
-      "avatar" : "ppoc.jpg",
-      "officialwebsite" : ""
     }
+    
   ]
 }

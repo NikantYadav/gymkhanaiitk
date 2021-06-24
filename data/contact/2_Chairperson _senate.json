@@ -1,15 +1,15 @@
 {
   "contact" : [
     {
-      "name" : "Yash Maheshwari",
-      "image" : "yash.webp",
+      "name" : "Kartikeya Dhakad",
+      "image" : "Kartikeya_Dhakad.jpg",
       "position": "Chairperson ",
       "council" :"Students' Senate",
-      "phone": "+91-9131200038",
+      "phone": "+91-9300732278",
       "mail":"chair_ss@iitk.ac.in",
       "social": {
-        "facebook" : "https://www.facebook.com/Yash.DFTBA",
-        "linkedin" : "https://www.linkedin.com/in/yashmaheshwari61/"
+        "facebook" : "https://www.facebook.com/kdhakad.3917"
+       
       }
     }
   ]

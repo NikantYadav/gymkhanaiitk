@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/cells/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/cells/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/contact/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/councils/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/councils/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/fest/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/fest/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/students-senate/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/students-senate/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/categories/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/categories/</loc>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/</loc>
   </url><url>
-    <loc>https://students.iitk.ac.in/gymkhana/website-build/tags/</loc>
+    <loc>https://students.iitk.ac.in/gymkhana/tags/</loc>
   </url>
 </urlset>
