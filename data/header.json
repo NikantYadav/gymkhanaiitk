@@ -28,6 +28,10 @@
       "href" : "students-senate"
     },
     {
+      "title" : "Mentorship",
+      "href" : "mentorship"
+    },
+    {
       "title" : "Constitution",
       "href" : "https://students.iitk.ac.in/ss/home/constitution/",
       "external": "yes"
