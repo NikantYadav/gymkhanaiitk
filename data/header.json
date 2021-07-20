@@ -28,8 +28,17 @@
       "href" : "students-senate"
     },
     {
+      "title" : "Mentorship",
+      "href" : "mentorship"
+    },
+    {
       "title" : "Constitution",
       "href" : "https://students.iitk.ac.in/ss/home/constitution/",
+      "external": "yes"
+    },
+    {
+      "title" : "Complaint Form",
+      "href" : "https://students.iitk.ac.in/gymkhana/complaint-form/",
       "external": "yes"
     },
     {
