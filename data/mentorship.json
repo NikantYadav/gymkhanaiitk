@@ -1,0 +1,15 @@
+{
+    "title":"Mentorship Program",
+    "logo":"",
+    "descriptions": [{"description":"Alumni mentorship program for final year B.Tech/BS students to enable the creation of meaningful long-term connections with the Alumni helping the students with their guidance to navigate through times of uncertainty and confusion during the placement season, ultimately allowing them to make an informed career choice. The program will be run by the Students’ Gymkhana with the support from AA board members Ms. Apoorva Khandelwal and Ms. Smita Hashim. It seeks to enhance the career awareness of the mentees so that they are better equipped to find off-campus applications, go for MBA/MS/Ph.D., and/or jobs that match their goals and interests."},
+{"description":"We will start the program through pilots and incorporate learnings from the pilot\nPropose piloting 3 cohorts with:\nCorporate career mentorship with domain specific subgroups\nWomenInSTEM (Women Alumni and students)\nHigher studies and academia\n\nThe first cohort (Corporate career mentorship) would involve 3:10 mentor to mentee mapping according to the domain of interest\nWhile, the second and third cohorts would be on the lines of community building where people with similar interests and aspirations can come together and ask for help as required."}],
+    
+"mentorshipTimeline":{"title":"Timeline",
+    "timeline":[{"description":"Release of registration forms in alumni and student community: 11th July"},
+        {"description":"Matching of alumni and students (in the ratio of 1:3): 25th July"},
+        {"description":"Introduction and launch of mentorship program: End of July"},
+        {"description":"First feedback and reshuffling: 2nd week of August"},
+        {"description":"Second Feedback: 1st week of September"},
+        {"description":"Mock Interviews (in collaboration with Outreach Cell’s Mock en Joy: October"}]}
+    
+}
