@@ -2,7 +2,8 @@
 
 {{ $title := $mentorship.title }}
 {{ $description := $mentorship.description }}
-
+{{$logo1 := $mentorship.logo1 }}
+{{$logo2 := $mentorship.logo2 }}
 <section id="mentorship" class="bg-light py-5">
   <div class="container">
 
@@ -11,6 +12,7 @@
         <div class="d-flex h-100 align-items-center">
           <div>
               <h2 style="font-size:45px" class=" h1">{{ $title }}</h2>
+              
               {{range $mentorship.descriptions}}
               <br/>
               <p >{{ (replace .description "\n" "<br/>")| safeHTML }}</p> 
@@ -93,7 +95,7 @@
   -webkit-border-radius:190px;"></center> -->
     			<div class="card-body">
       				<center><h4 class="card-title">{{ .title}}</h4>
-      				<p class="card-subtitle">{{ .description }}</p></center>
+      				<p class="card-subtitle">{{ .description }}</p> <h5>{{.date}}</h4></center>
       
     			</div>
   		</div>
@@ -114,7 +116,7 @@
   -webkit-border-radius:190px;"></center> -->
     			<div class="card-body">
       				<center><h4 class="card-title">{{ .title}}</h4>
-      				<p class="card-subtitle">{{ .description }}</p></center>
+      				<p class="card-subtitle">{{ .description }}</p> <h5>{{.date}}</h5></center>
       
     			</div>
   		</div>
@@ -148,7 +150,7 @@
   -webkit-border-radius:190px;"></center> -->
     			<div class="card-body">
       				<center><h4 class="card-title">{{ .title}}</h4>
-      				<p class="card-subtitle">{{ .description }}</p></center>
+      				<p class="card-subtitle">{{ .description }}</p> <h5>{{.date}}</h5></center>
       
     			</div>
   		</div>
@@ -174,14 +176,14 @@
     			</div>
     			{{end}}
 		</div> 
-  		<a class="carousel-control-prev" href="#time" role="button" data-slide="prev">
+  		<!--a class="carousel-control-prev" href="#time" role="button" data-slide="prev">
     			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
     			<span class="sr-only">Previous</span>
   		</a>
   		<a class="carousel-control-next" href="#time" role="button" data-slide="next">
    			<span class="carousel-control-next-icon" aria-hidden="true"></span>
    			<span class="sr-only">Next</span>
-  		</a>
+  		</a-->
 		
 	</div>
 </div>

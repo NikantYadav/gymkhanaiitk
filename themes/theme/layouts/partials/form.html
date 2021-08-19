@@ -71,6 +71,23 @@
   />
   <button type="submit">Send</button>
 </form>
+{{ $mentorship := .Site.Data.mentorship }}
+
+{{$logo1 := $mentorship.logo1 }}
+{{$logo2 := $mentorship.logo2 }}
+<div class="align-items-center" style="width:280px; margin:0px auto">
+              <img src="{{.Site.BaseURL}}/images/{{$logo1}}" class="rounded-circle " width="120" height="120"
+               style="margin: 20px auto ;
+                box-shadow: 0px 6px 5px #ccc;
+                -moz-box-shadow: 0px 6px 5px #ccc;
+                -webkit-box-shadow: 0px 6px 5px #ccc;"/>
+              <img src="{{.Site.BaseURL}}/images/{{$logo2}}" class="rounded-circle" width="120" height="120"
+              style="-moz-box-shadow: 0px 6px 5px #ccc;
+                      box-shadow: 0px 6px 5px #ccc;
+                      -webkit-box-shadow: 0px 6px 5px #ccc;
+                      margin: 15px auto 10px 10px;
+                      "/>
+                      </div>
 <style>
   @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
