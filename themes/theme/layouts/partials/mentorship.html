@@ -11,10 +11,13 @@
       <div class="col-lg-12 col-12">
         <div class="d-flex h-100 align-items-center">
           <div>
-              <h2 style="font-size:45px" class=" h1">{{ $title }}</h2>
+              <h2 style="font-size:45px; margin-bottom:0px;" class=" h1">{{ $title }}</h2>
               
               {{range $mentorship.descriptions}}
               <br/>
+              {{if not (eq .title "")}}
+              <h3>{{.title}}</h4>
+              {{end}}
               <p >{{ (replace .description "\n" "<br/>")| safeHTML }}</p> 
               {{end}}
           </div>
