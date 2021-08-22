@@ -2,8 +2,9 @@
 <button  class='tab active' onClick="openTab(event, 'mentees')">Mentees</button>
 <button  class='tab' onClick="openTab(event, 'mentors')">Mentors</button>
 </div>
-<div class='tabs_contents' id="mentees" style="display:block">
-<form
+<div class='tabs_contents items-center' id="mentees" style="display:block">
+<iframe class='embed-form' src="https://docs.google.com/forms/d/e/1FAIpQLScazsjEundHNk01drBcsKaDuEmNh8rH7aF_4BDwQRx1Dg9OLA/viewform?embedded=true"  frameborder="0" >Loading…</iframe>
+<!--form
   action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScazsjEundHNk01drBcsKaDuEmNh8rH7aF_4BDwQRx1Dg9OLA/formResponse"
   method="post"
   target="hidden_iframe"
@@ -74,10 +75,11 @@
     required
   />
   <button type="submit">Send</button>
-</form>
+</form-->
 </div>
-<div class='tabs_contents' id="mentors">
-  <form
+<div class='tabs_contents items-center' id="mentors">
+  <iframe class='embed-form' src="https://docs.google.com/forms/d/e/1FAIpQLSdLdoFs_zDBejGvuLGVo30-U8kewmAgLxGoSbZQSqd5gLSLrg/viewform?embedded=true"  frameborder="0" >Loading…</iframe>
+  <!--form
   action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdLdoFs_zDBejGvuLGVo30-U8kewmAgLxGoSbZQSqd5gLSLrg/formResponse"
   method="post"
   target="hidden_iframe"
@@ -140,8 +142,8 @@
     required
   />
   <label>How much time will you be able to devote per month for the students?*</label>
-  <input type="radio" name="entry.885879032" id="Less then 1 hour" required/>
-  <label for="Less then 1 hour">Less then 1 hour</label><br/>
+  <input type="radio" name="entry.885879032" id="Less than 1 hour" required/>
+  <label for="Less than 1 hour">Less than 1 hour</label><br/>
   <input type="radio" name="entry.885879032" id="1-2 hours" required/>
   <label for="1-2 hours">1-2 hours</label><br/>
   <input type="radio" name="entry.885879032" id="3-4 hours" required/>
@@ -195,7 +197,7 @@
     type="text"
     placeholder="In which field(s), are you willing to help the mentees? *"
     class="form-input"
-    name="entry.462263777"
+    name="entry.1826023625"
     required
   />
   <label>In what ways are you willing to help your mentees?</label>
@@ -203,16 +205,16 @@
     type="text"
     placeholder="In what ways are you willing to help your mentees?"
     class="form-input"
-    name="entry.1826023625"
+    name="entry.615596698"
   />
   <label>Since this program requires constant interaction every month, will you be able to devote time from June-December? *</label>
   <input type="radio" name="entry.259273652" id="Yes" required/>
   <label for="Yes">Yes</label>
   </br>
-  <input type="radio" name="" id="No" required/>
+  <input type="radio" name="entry.259273652" id="No" required/>
   <label for="No">No</label>
   </br>
-  <input type="radio" name="" id="Maybe" required/>
+  <input type="radio" name="entry.259273652" id="Maybe" required/>
   <label for="Maybe">Maybe</label>
   </br> 
   <label>Current organisation of work *</label>
@@ -231,8 +233,9 @@
     name="entry.440192743"
   />
   <button type="submit">Send</button>
-</form>
+</form-->
 </div>
+
 
 {{ $mentorship := .Site.Data.mentorship }}
 
@@ -259,6 +262,12 @@
   background-color: #f1f1f1;
   display:flex;
   flex-direction: row;
+}
+.embed-form{
+  margin: 20px auto;
+  width: 100%;
+  height: 100vh;
+
 }
 
 /* Style the buttons that are used to open the tab content */
