@@ -16,7 +16,7 @@
               {{range $mentorship.descriptions}}
               <br/>
               {{if not (eq .title "")}}
-              <h3>{{.title}}</h4>
+              <h3>{{.title}}</h3>
               {{end}}
               <p >{{ (replace .description "\n" "<br/>")| safeHTML }}</p> 
               {{end}}
@@ -59,8 +59,16 @@
         <h2 style="text-align:left;font-size:35px"> {{ $mentorship.timelineTitle }} </h2>
         <p style="font-size:20px">{{ (replace $mentorship.timeline "\n" "<br/>")|safeHTML }}</p>
       </div-->
+        <div class="col-12 col-lg-12" >
+            <p style="">For more information you can find the deck <a href = "https://drive.google.com/file/d/1FZ7UiGmjLUBNzMpRFJ8MHh8cls5SL5ga/view?usp=sharing">here</a> .</p>
+            <h3 class="font-weight-bold " style="text-align: center; margin-top: 20px;">Poster for the program</h3>
+            <iframe src="{{ .Site.BaseURL }}/pdfs/Poster.pdf" width="100%"  style="height: 600px">Loading..</iframe>
+        </div>
     </div>
   </div>
+
+
+
   <!--
   {{ $time := .Site.Data.mentorship.mentorshipTimeline }}
 
