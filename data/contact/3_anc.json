@@ -1,14 +1,15 @@
 {
   "contact" : [
     {
-      "name" : "Shloka Patil",
-      "image" : "Shloka_Patil.jpg",
+      "name" : "Manit Ajmera",
+      "image" : "Manit_Ajmera.png",
       "position": "UG General Secretary ",
       "council": "Academics and Career ",
-      "phone": "+91-6355255479",
+      "phone": "+91-8120824189",
       "mail":"ug_anc@iitk.ac.in",
       "social": {
-        "facebook" : "https://www.facebook.com/shloka.patil"
+        "facebook" : "https://www.facebook.com/manitajm",
+        "linkedin" : "http://linkedin.com/in/manit-ajmera"
       }
     },
     {
